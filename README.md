@@ -1,2 +1,0 @@
-# usaiotdevices
-GitHub Pages
